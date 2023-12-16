@@ -1,0 +1,10 @@
+body{
+    align-items:center;
+}
+
+
+.item {
+    text-align:center;
+    background-size:fit-content;
+    max-width: 1vw;
+}
